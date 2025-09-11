@@ -21,8 +21,8 @@ Certifique-se de que você tenha o Python 3.8+ e o gerenciador de pacotes pip in
 Instalação
 Clone o repositório (opcional, caso esteja no Git):
 
-git clone <TreinoPython>
-cd <nome-do-diretorio>
+git clone https://github.com/burgerpedro/TreinoPython.git
+cd TreinoPython
 
 
 Instale as dependências:
